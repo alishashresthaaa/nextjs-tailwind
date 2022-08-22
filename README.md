@@ -2,13 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First run the server : yarn run server
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Open [http://localhost:8000](http://localhost:8000) with your browser to see the result.
+
+Then run the Next App : yarn run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
