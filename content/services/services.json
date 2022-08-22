@@ -1,0 +1,75 @@
+{
+  "description": "Our Developers who are skilled in a wide group of industry verticals taking into account a wide range of new organization and private sectors.",
+  "image": "http://localhost:8000/assets/image/expert.png",
+  "list": [
+    {
+      "id": 1,
+      "title": "Web and Mobile Application Development",
+      "image": "http://localhost:8000/assets/image/expert.png",
+      "details": "We build custom web and mobile applications based on your unique business needs and pull off your next project with much lesser cost than expected with much higher productivity. We take your projects as our own and from initial phase to post-launch - no matter what stage your product development lifecycle is, LogicaBeans is committed to providing technical support, full scale commitment and top of the line experts.",
+      "services": [
+        {
+          "id": 1,
+          "title": "Product Development",
+          "details": "Whether a new or an ongoing project, we are delighted to initiate the development process with our experts as imagined and in a better way by you."
+        },
+        {
+          "id": 2,
+          "title": "Product Recovery",
+          "details": "With our proficient team, we are willing to undertake any projects that others could not finalise. PLUS if you need any re-balancing in your internal team members we can fulfil it to complete the task at hand."
+        },
+        {
+          "id": 3,
+          "title": "Enterprise Solution Development",
+          "details": "Logicians are happy to design any complex business enterprise solutions based on your needs. Our expertise in CRM, CMS, BI, Analytics, Integrations and E-commerce helps us provide you with the industry’s best-practice customized software solutions across the globe to give you a competitive edge."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Web and Mobile Application Development",
+      "image": "http://localhost:8000/assets/image/expert.png",
+      "details": "We build custom web and mobile applications based on your unique business needs and pull off your next project with much lesser cost than expected with much higher productivity. We take your projects as our own and from initial phase to post-launch - no matter what stage your product development lifecycle is, LogicaBeans is committed to providing technical support, full scale commitment and top of the line experts.",
+      "services": [
+        {
+          "id": 1,
+          "title": "Product Development",
+          "details": "Whether a new or an ongoing project, we are delighted to initiate the development process with our experts as imagined and in a better way by you."
+        },
+        {
+          "id": 2,
+          "title": "Product Recovery",
+          "details": "With our proficient team, we are willing to undertake any projects that others could not finalise. PLUS if you need any re-balancing in your internal team members we can fulfil it to complete the task at hand."
+        },
+        {
+          "id": 3,
+          "title": "Enterprise Solution Development",
+          "details": "Logicians are happy to design any complex business enterprise solutions based on your needs. Our expertise in CRM, CMS, BI, Analytics, Integrations and E-commerce helps us provide you with the industry’s best-practice customized software solutions across the globe to give you a competitive edge."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design Services",
+      "image": "http://localhost:8000/assets/image/expert.png",
+      "details": "We build custom web and mobile applications based on your unique business needs and pull off your next project with much lesser cost than expected with much higher productivity. We take your projects as our own and from initial phase to post-launch - no matter what stage your product development lifecycle is, LogicaBeans is committed to providing technical support, full scale commitment and top of the line experts.",
+      "services": [
+        {
+          "id": 1,
+          "title": "Product Development",
+          "details": "Whether a new or an ongoing project, we are delighted to initiate the development process with our experts as imagined and in a better way by you."
+        },
+        {
+          "id": 2,
+          "title": "Product Recovery",
+          "details": "With our proficient team, we are willing to undertake any projects that others could not finalise. PLUS if you need any re-balancing in your internal team members we can fulfil it to complete the task at hand."
+        },
+        {
+          "id": 3,
+          "title": "Enterprise Solution Development",
+          "details": "Logicians are happy to design any complex business enterprise solutions based on your needs. Our expertise in CRM, CMS, BI, Analytics, Integrations and E-commerce helps us provide you with the industry’s best-practice customized software solutions across the globe to give you a competitive edge."
+        }
+      ]
+    }
+  ]
+}

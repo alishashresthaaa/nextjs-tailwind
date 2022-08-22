@@ -1,0 +1,44 @@
+{
+  "description": "Our Developers who are skilled in a wide group of industry verticals taking into account a wide range of new organization and private sectors.",
+  "image": "http://localhost:8000/assets/image/communication.png",
+  "list": [
+    {
+      "id": 1,
+      "title": ".NET Developers",
+      "image": "http://localhost:8000/assets/image/communication.png",
+      "details": "Looking to hire cost effective yet competent .NET developers? Hire our .NET developers on hourly or monthly basis. We have a team of highly credible .NET developers who diligently work in their expertise. They have been providing .NET programming solutions to the small and mid-sized entities with full efficacy. Our dedicated .NET developers provide programming guidelines that can be used to develop large and diverse applications from web to mobile to Windows-based applications.",
+      "services": [
+        {
+          "id": 1,
+          "icon": "http://localhost:8000/assets/svg/android.svg",
+          "title": "ASP.NET MVC Development",
+          "details": "Our .NET MVC solutions offer you a contemporary pattern-based method to build robust websites using the latest web standards."
+        },
+        {
+          "id": 2,
+          "icon": "http://localhost:8000/assets/svg/android.svg",
+          "title": "ASP.NET Core",
+          "details": "With our .NET Core solutions, you will have an access to higher exhibition with new improvements. It helps you minimize the coding and obtain faster digital solutions."
+        },
+        {
+          "id": 3,
+          "icon": "http://localhost:8000/assets/svg/android.svg",
+          "title": "ASP.NET Web Forms",
+          "details": "We develop ASP.NET Web Forms that offers the techniques and features of web applications and controls inside them through UI components."
+        },
+        {
+          "id": 4,
+          "icon": "http://localhost:8000/assets/svg/android.svg",
+          "title": "ASP.NET Web API",
+          "details": "Our highly integrated ASP.NET Web API solution contain articles and strategies that are uncovered over Web utilizing basic informing convention stacks."
+        },
+        {
+          "id": 5,
+          "icon": "http://localhost:8000/assets/svg/android.svg",
+          "title": "Web/Cloud Based Applications",
+          "details": "We believe in providing user-friendly, high-performance, scalable, and customized web application development solutions to cater to your business needs."
+        }
+      ]
+    }
+  ]
+}

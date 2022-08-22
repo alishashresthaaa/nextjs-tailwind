@@ -1,0 +1,54 @@
+{
+  "description": "Our Developers who are skilled in a wide group of industry verticals taking into account a wide range of new organization and private sectors.",
+  "image": "http://localhost:8000/assets/image/expert.png",
+  "list": [
+    {
+      "id": 1,
+      "icon": "http://localhost:8000/assets/png/health.png",
+      "title": "Health Care",
+      "details": "We provide an effective solution to the healthcare industry to improve functional efficiency and internal processes of the industry targeting smooth operation for both patient and client."
+    },
+    {
+      "id": 2,
+      "icon": "http://localhost:8000/assets/png/bank.png",
+      "title": "Banking and Finance",
+      "details": "We provide various software solutions for financial businesses to improve their operational efficiency of their business."
+    },
+    {
+      "id": 3,
+      "icon": "http://localhost:8000/assets/png/education.png",
+      "title": "Education Industry",
+      "details": "LogicaBeans has developed different CRM Software Applications that helped resolve the concerns faced by the education industry in local and international market."
+    },
+    {
+      "id": 4,
+      "icon": "http://localhost:8000/assets/png/insurance.png",
+      "title": "Insurance Industry",
+      "details": "We have also provided various software solutions to Insurance Industries to improve their operational, functional and daily efficiency of their businesses."
+    },
+    {
+      "id": 5,
+      "icon": "http://localhost:8000/assets/png/health.png",
+      "title": "Health Care",
+      "details": "We provide an effective solution to the healthcare industry to improve functional efficiency and internal processes of the industry targeting smooth operation for both patient and client."
+    },
+    {
+      "id": 6,
+      "icon": "http://localhost:8000/assets/png/bank.png",
+      "title": "Banking and Finance",
+      "details": "We provide various software solutions for financial businesses to improve their operational efficiency of their business."
+    },
+    {
+      "id": 7,
+      "icon": "http://localhost:8000/assets/png/education.png",
+      "title": "Education Industry",
+      "details": "LogicaBeans has developed different CRM Software Applications that helped resolve the concerns faced by the education industry in local and international market."
+    },
+    {
+      "id": 8,
+      "icon": "http://localhost:8000/assets/png/insurance.png",
+      "title": "Insurance Industry",
+      "details": "We have also provided various software solutions to Insurance Industries to improve their operational, functional and daily efficiency of their businesses."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "description": "Our company offers efficient  Development services to offer your business a better ROI in long term. Hiring dedicated and proficient developers who are experienced and certified to convey inventive and top tier results in development. As a top development company, we ensure that you get a creative and customized solution to meet all your business requirements",
+  "image": "http://localhost:8000/assets/image/programer.png",
+  "list": [
+    {
+      "id": 1,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+      "title": "2.5 + years of minimum experience",
+      "details": "Our developers are highly skilled and have complete proficiency in the use and implementation of latest technologies that will enhance the output of the business solution developed for you."
+    },
+    {
+      "id": 2,
+      "icon": "http://localhost:8000/assets/png/achieve.png",
+      "title": "Achieve More Than 200 Projects",
+      "details": "Our Developers have successfully shaped numerous projects in widespread industry sectors. They ensure they are up to the mark with constantly evolving technologies and are well prepared to investigate new pursuits."
+    },
+    {
+      "id": 3,
+      "icon": "http://localhost:8000/assets/png/easy.png",
+      "title": "Easy Project Management with your Team",
+      "details": "Our efficient team follows our internal development protocols which leads to quick turnaround time in development, resolutions, implementation and deployment of quality business solutions. This makes management of the project easier and clear."
+    },
+    {
+      "id": 4,
+      "icon": "http://localhost:8000/assets/png/team.png",
+      "title": "Highly Skilled and Certified Developers",
+      "details": "Access to the large team of certified professionals and industry experts well-versed in their secluded specialties to convert your ideas into reality."
+    },
+    {
+      "id": 5,
+      "icon": "http://localhost:8000/assets/png/daily.png",
+      "title": "Daily Reporting",
+      "details": "With our daily reporting, you'll be able to have an overview of how the project is progressing without having to talk on a daily basis."
+    },
+    {
+      "id": 6,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+      "title": "Adaptable Engagement Models",
+      "details": "We offer various engagement models to suit the requirements of every new customer. Each of our client has the flexibility of selecting the most appropriate commitment model that best suits his business needs."
+    }
+  ]
+}

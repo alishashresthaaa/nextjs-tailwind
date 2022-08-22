@@ -1,0 +1,48 @@
+{
+  "description": "Work with our dedicated full-stack developers to get effective solutions with a numerous business benefits.",
+  "image": "http://localhost:8000/assets/image/education.png",
+  "list": [
+    {
+      "id": 1,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "Hire a team of your preference",
+      "details": "Work with our dedicated full-stack developers to get effective solutions with a numerous business benefits."
+    },
+    {
+      "id": 2,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "Quality Testing",
+      "details": "We Deliver the Quality Test Product, which is the full test method, used to verify complete product quality."
+    },
+    {
+      "id": 3,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "Budget-Friendly",
+      "details": "As leading Offshore Development Company in Nepal we offer budget-friendly, customizable, affordable yet efficient various development solutions."
+    },
+    {
+      "id": 4,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "100% Client fulfillment",
+      "details": "Our dedicated developers work solidly to magnify your vision plus are expert on current technologies like Blockchain, AI, Cloud, and IoT and bring robust, secure, and easy to understand applications."
+    },
+    {
+      "id": 5,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "Honesty and Clarity",
+      "details": "Simply put, your business idea is secure with us. Our team works honestly and pursues exacting the NDAs very professionally."
+    },
+    {
+      "id": 6,
+      "icon": "http://localhost:8000/assets/png/experience.png",
+
+      "title": "Online Management system",
+      "details": "You can track the work progress of the dedicated developer and the project with different online Project Management (PM) tools, so eventually you do not need to worry about offline follows ups especially working on different time zones."
+    }
+  ]
+}
